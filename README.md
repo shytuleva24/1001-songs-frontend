@@ -1,6 +1,6 @@
 # 🎵 ["1000 and 1 song"]([https://example.com](https://1000and1songs.com/))
 
-This is a unique web resource that aims to inform and provide access to the national heritage sites of Ukraine for educational, cognitive and reference purposes.
+This is a unique web resource that aims to inform and provide access to the national heritage sites of Ukraine for educational, cognitive, and reference purposes.
 
 This project combines a variety of skills and technologies, including:
 - Caching to optimize page loading speed.
@@ -11,7 +11,7 @@ This project combines a variety of skills and technologies, including:
 
 
 ## Key Resources
-- **Angular and its modules:** Angular framework is used for developing web applications. Modules include `@angular/animations`, `@angular/cdk`, and others.
+- **Angular and its modules:** Angular framework is used for developing web applications. Modules include `@angular/animations`, `@angular/material`, `@angular/google-maps`, and others.
 - **ngx-translate:** For implementing multilingual support in the application.
 - **@ngxs/store:** Library for managing application state in Angular.
 - **ngx-clipboard:** Used for working with the clipboard.
