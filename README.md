@@ -1,4 +1,4 @@
-# 🎵 ["1000 and 1 song"]([https://example.com](https://1000and1songs.com/)
+# 🎵 ["1000 and 1 song"](https://1000and1songs.com/)
 
 This is a unique web resource that aims to inform and provide access to the national heritage sites of Ukraine for educational, cognitive, and reference purposes.
 
