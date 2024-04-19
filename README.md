@@ -1,4 +1,4 @@
-# 🎵 "1000 and 1 Song"
+# 🎵 ["1000 and 1 song"]([https://example.com](https://1000and1songs.com/))
 
 This is a unique web resource that aims to inform and provide access to the national heritage sites of Ukraine for educational, cognitive and reference purposes.
 
@@ -9,33 +9,30 @@ This project combines a variety of skills and technologies, including:
 - Working with filters and creating a player for easy search and listening to songs.
 - State and database management skills for efficient management and storage of information.
 
-### Dependencies  
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
-- **Angular and its modules:**
-  - `@angular/google-maps`
-  - `@angular/material`
-  - `**etc.`
-- **ngx-translate:** Library for multi-language applications.
-- **@ngxs/store:** A state management library for Angular applications.
-- **ngx-clipboard:** Clipboard library.
-- **ngx-owl-carousel-o:** Carousel for Angular.
-- **ngx-window-token:** Library for working with windows in Angular.
-- **date-fns:** Library for working with dates and time.
-- **package:** A package for working with Node.js packages.
-- **prettier:** Code formatting tool.
-- **protractor and selenium-webdriver:** Web application testing tools.
-- **rxjs:** A library for handling asynchronous operations.
-- **tough-cookie:** Library for working with cookies.
-- **uuid:** Library for generating UUIDs.
-- **xml2js:** A library for working with XML in JavaScript.
-- **zone.js:** Library for handling zones in Angular.
 
-### Development Dependencies
-- **Angular CLI:** Command line interface for Angular.
-- **eslint and related packages:** Tools for static code analysis.
-- **husky:** A tool for customizing git hooks.
-- **karma and related packages:** Tools for running JavaScript tests.
-- **stylelint and related packages:** Tools for testing CSS and SCSS styles.
-- **TypeScript:** A typed programming language for JavaScript.
+## Key Resources
+- **Angular and its modules:** Angular framework is used for developing web applications. Modules include `@angular/animations`, `@angular/cdk`, and others.
+- **ngx-translate:** For implementing multilingual support in the application.
+- **@ngxs/store:** Library for managing application state in Angular.
+- **ngx-clipboard:** Used for working with the clipboard.
+- **date-fns:** Library for working with dates and times.
+- **prettier:** Tool for code formatting.
+- **protractor and selenium-webdriver:** Tools for automated testing of web applications.
+- **rxjs:** Library for working with asynchronous operations.
 
+## Dev Resources
+- **Angular CLI:** Command-line interface for Angular.
+- **eslint:** Tool for static code analysis.
+- **husky:** Tool for setting up git hooks.
+- **karma and related packages:** For running JavaScript tests.
+- **stylelint and related packages:** For checking CSS and SCSS styles.
+- **TypeScript:** Programming language with typing for JavaScript.
 
+## Scripts
+- `npm start`: Starts the local development server.
+- `npm run build`: Builds the project for deployment.
+- `npm run test`: Runs tests.
+- `npm run lint`: Runs static code analysis.
+- `npm run deploy`: Deploys the application to the server.
+- `npm run stylelint`: Checks CSS and SCSS styles.
+- `npm run precommit`: Runs prettier before committing.
